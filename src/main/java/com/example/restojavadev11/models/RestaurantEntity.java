@@ -1,4 +1,4 @@
-package com.restaurant.entity;
+package com.example.restojavadev11.models;
 
 import jakarta.persistence.*;
 import lombok.Getter;
